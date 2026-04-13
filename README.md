@@ -6,6 +6,7 @@ I graduated with a B.S. in Economics at the University of Maryland
 
 I have broad interests in research, technology, and AI applications. I’m currnetly working on research in computational chemistry, molecular modeling, docking, QSAR/QSPR, GPCR biology, toxicology, and drug discovery, along with the broader question of how computation can be used to solve real scientific problems.
 
+
 Published work:
 
 First Author, *Molecular Determinants of Per- and Polyfluoroalkyl Substances Binding to Estrogen Receptors* in Toxics (DOI: https://doi.org/10.3390/toxics13110903)

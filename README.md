@@ -9,6 +9,7 @@ I have broad interests in research, technology, and AI applications. I’m currn
 Published work:
 
 *First Author* 
+
 Molecular Determinants of Per- and Polyfluoroalkyl Substances Binding to Estrogen Receptors in Toxics (DOI: https://doi.org/10.3390/toxics13110903)
 <!--
 **sahithmada/sahithmada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

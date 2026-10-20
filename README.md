@@ -8,10 +8,12 @@ I have interests in research, technology, and AI applications. I’m currently w
 
 First Author, *Molecular Determinants of Per- and Polyfluoroalkyl Substances Binding to Estrogen Receptors* in Toxics · Oct 22, 2025 (DOI: https://doi.org/10.3390/toxics13110903)
 
-Co-First Author, "MBind: A Web-Based Platform for Metalloprotein and Nonmetalloprotein Docking with Optional ML Docking Integration" in Molecules · Aug 3, 2026 (DOI: https://doi.org/10.3390/molecules31152703)
+Co-First Author, *MBind: A Web-Based Platform for Metalloprotein and Nonmetalloprotein Docking with Optional ML Docking Integration* in Molecules · Aug 3, 2026 (DOI: https://doi.org/10.3390/molecules31152703)
 
-Second Author, "MechBBB: A Two-Stage Mechanism Informed Machine Learning Tool for Blood Brain Barrier Permeability Prediction" in Pharmaceuticals · Sep 25, 2026 (DOI: 
+Second Author, *MechBBB: A Two-Stage Mechanism Informed Machine Learning Tool for Blood Brain Barrier Permeability Prediction* in Pharmaceuticals · Sep 25, 2026 (DOI: 
 https://doi.org/10.3390/ph19101524)
+
+Second Author, *Anion Exchange Mechanism of PFAS with Cholestyramine: Implications for PFAS Removal from the Human Body* in Toxics · Oct 11, 2026 (DOI: https://doi.org/10.3390/toxics14100901)
 <!--
 **sahithmada/sahithmada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
